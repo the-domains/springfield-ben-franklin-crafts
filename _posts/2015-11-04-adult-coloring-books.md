@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-04T01:44:07.608Z'
-dateModified: '2015-11-04T01:43:55.663Z'
+datePublished: '2015-11-04T01:54:33.336Z'
+dateModified: '2015-11-04T01:53:34.951Z'
 title: Adult Coloring Books
 authors: []
 publisher:
@@ -21,8 +21,10 @@ url: adult-coloring-books/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6827c624-f8c6-4566-a02c-4493468f3e24.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/174fe54c-86ee-4b7c-969e-5bd67fe32890.png)
 
-Adult Coloring Books!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2946c19-7c31-4f29-a292-d6728e1118ec.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/680dd0cd-cfd2-4b6a-b310-8fd5f372e99c.png)
+Adult Coloring Books arriving weekly!
+
+Make sure to stop by and check out these popular books and more!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca1188c4-dddd-4cb5-bdc2-586a9e57bd47.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e269b2de-646c-4810-8935-bc74541a2676.png)
